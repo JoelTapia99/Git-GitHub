@@ -56,7 +56,7 @@ Git es un sistema de control de versiones que nos ayuda a guardar el historial d
 * **git reset** --(Sirve para:)--> nos permite volver a la version anterior.
 * **git reset versionName --hard** --(Sirve para:)--> borra todos los cambios y regres a la version.
 * **git reset version --soft** --(Sirve para:)--> no borra todo lo este en la Memoria RAM.
-* **git logt** --(Sirve para:)--> elista todas las versiones que existen.
+* **git logt** --(Sirve para:)--> elista todas las versiones que existen(todos los commits).
     * --start //mas informacion.
 * **git checkout versionName nombreArchivot** --(Sirve para:)--> trae los el estado del archivo en cierta version
     git checkout master nombreArchivo.
