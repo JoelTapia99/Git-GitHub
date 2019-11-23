@@ -72,9 +72,9 @@ Git es un sistema de control de versiones que nos ayuda a guardar el historial d
 
 
 ## Subir a GITHUB
-* **git remote add origin rutaGithub** --(Sirve para)-->añadimos un repositorio remoto.
-* **git push origin master** --(Sirve paraenvía a github.
-* **git pull origin master** --(Sirve para)-->trae los archivos de gitHub a el repositorio local.
+* **git remote add origin rutaGithub** --(Sirve para)--> añadimos un repositorio remoto.
+* **git push origin master** --(Sirve para)--> envía lo del directorio a github.
+* **git pull origin master** --(Sirve para)--> trae los archivos de gitHub a el repositorio local.
 
  "cuando se va a fusionar los archivos saldrá un error porque las historias no coinciden, para forzar si fusión se usa".
 * **git pull origin master --allow-unrelated-histories** --(Sirve para)--> fuerza la fusión de historias.
