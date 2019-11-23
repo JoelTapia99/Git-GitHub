@@ -74,3 +74,6 @@ Git es un sistema de control de versiones que nos ayuda a guardar el historial d
 
  "cuando se va a fusionar los archivos saldrá un error porque las historias no coinciden, para forzar si fusión se usa".
 * **git pull origin master --allow-unrelated-histories** --(Sirve para:)--> fuerza la fusión de historias.
+
+
+se supone que esta es master
