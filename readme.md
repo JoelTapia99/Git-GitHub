@@ -8,6 +8,8 @@ Git es un sistema de control de versiones que nos ayuda a guardar el historial d
 * Provee de funcionalidades para hacer un fork y solicitar pulls.
 * Vamos a poder trabajar en equipo de una manera muy sencilla y optimizada, de forma que si tenemos dos o tres personas trabajando en ciertas funcionalidades del proyecto y nosotros podemos estar trabajando en nuestra parte del código. Cuando acabamos de desarrollar nuestro código, utilizamos Git para mezclar los cambios con los otros compañeros, de forma que el código se mezcla de manera perfecta sin generar ningún tipo de fallo y de forma rápida.
 
+# Estructura de trabajo de Git
+![Estructura de git](http://blog.podrezo.com/wp-content/uploads/2014/09/git-operations.png)
 
 # comandos para el uso de git
 
