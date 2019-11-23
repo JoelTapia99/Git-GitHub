@@ -61,8 +61,8 @@ Git es un sistema de control de versiones que nos ayuda a guardar el historial d
 * **git reset** --(Sirve para:)--> nos permite volver a la version anterior.
 * **git reset versionName --hard** --(Sirve para:)--> Regresa todo a la version anterior y borra lo que este en RAM.
 * **git reset version --soft** --(Sirve para:)--> en el directorio de trabajo coloca la versiona anterior, pero no borra todo lo este en la Memoria RAM.
-* **git checkout versionName nombreArchivot** --(Sirve para:)--> trae los el estado del archivo en cierta version
-    git checkout master nombreArchivo.
+* **git checkout versionName nombreArchivo** --(Sirve para:)--> trae el archivo en cierta version
+    * git checkout master nombreArchivo.
 * **git reset HEAD** --(Sirve para:)--> Este es el comando para sacar archivos del área de Staging(RAM).
 
 
