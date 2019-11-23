@@ -17,7 +17,8 @@ Git es un sistema de control de versiones que nos ayuda a guardar el historial d
 
 
 ### CONFIGURACION DE USUARIO
-* **git config --list --show-origin** --(Sirve para:)--> ver toda la configuracion de usuario.
+* **git config -l** --(Sirve para:)--> permite ver toda la configuracion de usuario.
+* **git config --list --show-origin** --(Sirve para:)--> ver toda la configuracion de usuario(mas detallada).
 * **git config --global user.name** --(Sirve para:)--> configurar usuario.
 * **git config --global user.email** --(Sirve para:)--> configurar email.
 
