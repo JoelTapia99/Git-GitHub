@@ -43,6 +43,7 @@ Git es un sistema de control de versiones que nos ayuda a guardar el historial d
 * **git diff** --(Sirve para:)--> para comparar lo que tengo en staging(RAM) y el directorio de trabajo.
 * **git diff versionA  versionB** --(Sirve para:)--> comparar versiones.
 
+## RAMAS
 
 ### CREACION DE RAMAS
 * **git branch nombreRama** --(Sirve para:)--> crea una rama
