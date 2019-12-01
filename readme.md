@@ -44,7 +44,7 @@ Git es un sistema de control de versiones que nos ayuda a guardar el historial d
 * **git rm --cached** --(Sirve para)--> lo saca de la lista de archivos para el commit.
 * **git show nombreArchivo** --(Sirve para)--> muestra los cambios que han ocurrido en el archivo que se ha especificado.
 * **git show** --(Sirve para)--> muestra los cambios que han ocurrido en un archivo.
-* **git diff** --(Sirve para para comparar lo que tengo en staging(RAM) y el directorio de trabajo.
+* **git diff** --(Sirve para)--> para comparar lo que tengo en staging(RAM) y el directorio de trabajo.
 * **git diff versionA  versionB** --(Sirve para)--> comparar versiones.
 
 ## RAMAS
